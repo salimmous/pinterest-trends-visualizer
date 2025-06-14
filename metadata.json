@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest Trends Visualizer",
+  "description": "A web application to visualize Pinterest keyword trends from uploaded CSV data, showing normalized search volume over time with Recharts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
